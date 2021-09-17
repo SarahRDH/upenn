@@ -33,6 +33,8 @@
  */
 function mostPopularDays(week) {
     // IMPLEMENT THIS FUNCTION!
+    //use .reduce
+    
 }
 
 
